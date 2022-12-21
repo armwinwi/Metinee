@@ -1,0 +1,56 @@
+.main{
+    background-color: rgb(248, 248, 248);
+    padding: 30px 60px 30px 60px;
+}
+.Logo{
+    background-color: rgb(255, 119, 0);
+    padding: 20px;
+    flex: 1;
+    margin-bottom: 20px;
+}
+.Nav{
+    background-color: rgb(255, 119, 0);
+    padding: 20px;
+    flex: 2;
+    text-align: right;
+    margin-bottom: 20px;
+}
+.HB{
+    background-color: rgb(255, 119, 0);
+    padding: 50px;
+    flex: 2;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+.IT{
+    background-color: rgb(255, 119, 0);
+    padding: 40px;
+    flex: 2;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+.grid-container{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.grid-items{
+    background-color: rgb(255, 119, 0);
+    text-align: center;
+    padding: 35px;
+    height: 330px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 380px;
+    font-weight: bold; 
+    font-size: 15px;
+}
+.Footer{
+    background-color: rgb(255, 119, 0);
+    margin-top: 20px; margin-bottom: 5px;
+    text-align: center;
+    padding: 10px;
+}

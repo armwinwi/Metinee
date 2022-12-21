@@ -1,0 +1,60 @@
+.main{
+    background-color: rgb(255, 218, 255);
+    padding: 20px 60px 20px 60px;
+}
+.logo{
+    background-color: skyblue;
+    padding: 20px;
+}
+
+.nav{
+    background-color: skyblue;
+    margin-top: 5px; margin-bottom: 5px;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.header{
+    background-color: skyblue;
+    text-align: center;
+    margin-bottom: 15px;
+    text-align: center;
+    padding: 50px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.sidebar{
+    background-color: skyblue;
+    display: block;
+    flex: 1;
+    margin-right: 15px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.body{
+    background-color: skyblue;
+    display: block;
+    flex: 2;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 400px;
+
+}
+
+.footer{
+    background-color: skyblue;
+    margin-top: 15px; margin-bottom: 5px;
+    text-align: center;
+    padding: 10px;
+
+
+}
